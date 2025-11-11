@@ -1,7 +1,7 @@
 # site properties and page defaults
 title: NeuRoNeLab
-subtitle: 
-description: An engaging 1-3 sentence description of your lab.
+subtitle: at University of Salerno
+description: Artificial Intelligence and Bioinformatics laboratory
 header: images/background-neurone.png
 footer: images/background-neurone.png
 proofer: false
